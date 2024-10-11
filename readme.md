@@ -24,7 +24,7 @@ A Python tool to detect phishing URLs by analyzing domain similarity, suspicious
 ## Usage
 Run the scanner using predefined or manually inputted URLs:
 ```bash
-python phishing_link_scanner.py
+python main.py
 ```
 ## Example Output
 ```bash
